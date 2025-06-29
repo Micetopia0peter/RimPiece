@@ -1,0 +1,12 @@
+<ModMetaData>
+  <name>Rim Piece</name>
+  <author>Micetopia</author>
+  <packageId>Micetopia.RimPiece</packageId>
+  <description>
+    Adds Devil Fruits and other One Piece-themed content to RimWorld. 
+    Only one of each type of Devil Fruit can exist at a time.
+  </description>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+</ModMetaData>
