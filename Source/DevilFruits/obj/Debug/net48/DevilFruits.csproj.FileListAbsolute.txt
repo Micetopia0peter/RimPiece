@@ -1,0 +1,20 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Assemblies\net48\DevilFruits.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Assemblies\net48\DevilFruits.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFru.B78F14D4.Up2Date
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\Rim Piece\Source\DevilFruits\obj\Debug\net48\DevilFruits.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Assemblies\net48\DevilFruits.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Assemblies\net48\DevilFruits.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFru.B78F14D4.Up2Date
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\RimPiece\Source\DevilFruits\obj\Debug\net48\DevilFruits.pdb

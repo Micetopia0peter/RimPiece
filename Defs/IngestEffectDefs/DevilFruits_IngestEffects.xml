@@ -1,0 +1,6 @@
+<Defs>
+  <IngestEffectDef>
+    <defName>IngestEffect_DevilFruitTransform</defName>
+    <effectClass>IngestEffect_DevilFruitTransform</effectClass> <!-- Custom C# class -->
+  </IngestEffectDef>
+</Defs>
