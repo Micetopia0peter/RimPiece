@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <AbilityDef>
+    <defName>RP_ArmamentStrike</defName>
+    <label>Armament Strike</label>
+    <description>A powerful blow infused with Armament Haki.</description>
+    <verbProperties>
+      <verbClass>Verb_CastAbility</verbClass>
+      <warmupTime>1.5</warmupTime>
+      <range>1.5</range>
+      <targetParams>
+        <canTargetPawns>true</canTargetPawns>
+        <canTargetBuildings>false</canTargetBuildings>
+      </targetParams>
+    </verbProperties>
+    <effectDescription>Deals bonus unarmed damage based on Haki tier.</effectDescription>
+    <iconPath>UI/Abilities/ArmamentStrike</iconPath>
+  </AbilityDef>
+
+  <AbilityDef>
+    <defName>RP_ObservationDodge</defName>
+    <label>Observation Dodge</label>
+    <description>Momentarily dodge incoming attacks with precognition.</description>
+    <verbProperties>
+      <verbClass>Verb_CastAbility</verbClass>
+      <warmupTime>0.5</warmupTime>
+      <range>0</range>
+      <targetParams>
+        <canTargetSelf>true</canTargetSelf>
+      </targetParams>
+    </verbProperties>
+    <effectDescription>Increases dodge chance briefly.</effectDescription>
+    <iconPath>UI/Abilities/ObservationDodge</iconPath>
+  </AbilityDef>
+</Defs>

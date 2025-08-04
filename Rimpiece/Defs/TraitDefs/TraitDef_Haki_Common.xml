@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>Haki_Common</defName>
+    <label>Common Haki Potential</label>
+    <description>Can only reach Tier 2 and learns Haki slowly.</description>
+    <commonality>0.2</commonality>
+    <degreeDatas>
+      <li>
+        <label>Common</label>
+        <description>Basic potential: Armament and Observation up to Tier 2.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

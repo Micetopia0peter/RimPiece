@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!-- Patches in CompHakiUser to all humanlike pawns -->
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="Human"]</xpath>
+    <value>
+      <comps>
+        <li Class="RimPiece.CompProperties_HakiUser" />
+      </comps>
+    </value>
+  </Operation>
+</Patch>
+</Defs>

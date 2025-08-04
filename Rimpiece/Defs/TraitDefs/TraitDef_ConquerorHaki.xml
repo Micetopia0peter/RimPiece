@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>Haki_Conqueror</defName>
+    <label>Conqueror’s Haki Potential</label>
+    <description>Rare potential: can unlock Conqueror’s Haki and reach Tier 5.</description>
+    <commonality>0.01</commonality>
+    <degreeDatas>
+      <li>
+        <label>Conqueror</label>
+        <description>Legendary potential: all Haki forms, up to Tier 5.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

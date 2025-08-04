@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <InspectTabDef>
+    <defName>RimPiece_HakiTab</defName>
+    <label>Haki</label>
+    <workerClass>RimPiece.ITab_Pawn_Haki</workerClass>
+    <tutorTag>Haki</tutorTag>
+  </InspectTabDef>
+</Defs>

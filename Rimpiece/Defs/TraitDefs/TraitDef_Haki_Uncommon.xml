@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>Haki_Uncommon</defName>
+    <label>Uncommon Haki Potential</label>
+    <description>Can reach Tier 3 and learns Haki normally.</description>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>Uncommon</label>
+        <description>Average potential: Armament and Observation up to Tier 3.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

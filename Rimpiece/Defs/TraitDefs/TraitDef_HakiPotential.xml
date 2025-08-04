@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+  <TraitDef>
+    <defName>HakiPotential</defName>
+    <label>Haki Potential</label>
+    <description>This person was born with the rare potential to awaken Haki. With training, they may unlock Armament and Observation Haki abilities.</description>
+    <commonality>0.03</commonality>
+    <degreeDatas>
+      <li>
+        <label>Haki Sensitive</label>
+        <description>Can train and eventually awaken forms of Haki through meditation and battle experience.</description>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

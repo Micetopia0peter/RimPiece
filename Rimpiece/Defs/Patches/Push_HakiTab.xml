@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAddModExtension">
+    <!-- find all humanlike races (vanilla + any modded) -->
+    <xpath>Defs/ThingDef[RaceProps/humanlike and inspectorTabs]</xpath>
+    <value>
+      <li>RimPiece_HakiTab</li>
+    </value>
+  </Operation>
+</Patch>

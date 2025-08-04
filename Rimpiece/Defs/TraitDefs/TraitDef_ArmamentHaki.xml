@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>ArmamentHakiUser</defName>
+    <label>Armament Haki</label>
+    <description>This person has learned to manifest Armament Haki to harden their body and attacks.</description>
+    <commonality>0.08</commonality>
+    <degreeDatas>
+      <li>
+        <label>Armament</label>
+        <description>Grants access to Armament Haki abilities and increases melee damage slightly.</description>
+        <statOffsets>
+          <MeleeDPS>0.3</MeleeDPS>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

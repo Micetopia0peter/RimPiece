@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+<TraitDef>
+  <defName>ObservationHakiUser</defName>
+  <label>Observation Haki</label>
+  <description>This person has awakened Observation Haki, letting them sense danger and respond faster than thought.</description>
+  <commonality>0.08</commonality>
+  <degreeDatas>
+    <li>
+      <label>Observation</label>
+      <description>Can use Observation Haki to boost sight and dodge attacks.</description>
+    </li>
+  </degreeDatas>
+</TraitDef>
+</Defs>

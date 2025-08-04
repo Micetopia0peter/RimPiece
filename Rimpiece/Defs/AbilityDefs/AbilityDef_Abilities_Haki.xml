@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <AbilityDef ParentName="PsycastBase">
+    <defName>ArmamentHaki</defName>
+    <label>armament haki</label>
+    <description>
+      Reinforce your body with invisible willpower armor, boosting melee damage and defense temporarily.
+    </description>
+    <level>1</level>
+    <iconPath>UI/Abilities/ArmamentHaki</iconPath>
+    <hotKey>Misc4</hotKey>
+    <statBases>
+      <Ability_EntropyGain>0</Ability_EntropyGain>
+      <Ability_PsyfocusCost>0</Ability_PsyfocusCost>
+      <Ability_Duration>30</Ability_Duration>
+    </statBases>
+    <verbProperties>
+      <warmupTime>0.5</warmupTime>
+      <range>1.1</range>
+      <!--  Self-target only  -->
+      <targetParams>
+        <canTargetSelf>True</canTargetSelf>
+      </targetParams>
+    </verbProperties>
+    <comps>
+      <li Class="CompProperties_AbilityGiveHediff">
+        <compClass>CompAbilityEffect_GiveHediff</compClass>
+        <hediffDef>Hediff_ArmamentHaki</hediffDef>
+        <applyToSelf>True</applyToSelf>
+        <replaceExisting>True</replaceExisting>
+        <psychic>False</psychic>
+      </li>
+      <li Class="CompProperties_AbilityFleckOnTarget">
+        <fleckDef>PsycastPsychicEffect</fleckDef>
+        <!-- Replace with custom dark aura later -->
+      </li>
+      
+      <!-- ✅ NEW: XP gain on use -->
+      <li Class="RimPiece.CompProperties_AbilityHakiXP">
+        <xpAmount>5</xpAmount>
+      </li>
+    </comps>
+  </AbilityDef>
+</Defs>
